@@ -16,7 +16,7 @@
  * name the test step same as the value given for EXIT_STEP_NAME property
  * but this is just need for control of execution, there may or may not be
  * having any code in it or just use log statement saying test finished
- *
+ * Adding comments.
  * Finall test case will appear with below steps
  * 1. rest step to get token
  * 2. groovy script step with this code
